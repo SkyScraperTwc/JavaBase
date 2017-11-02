@@ -9,13 +9,13 @@ public class TestFile5 {
 	public static void main(String[] args) {
 		File f1 = new File("C:\\Users\\TanWC\\Desktop\\file");
 		TxtFileNameFile filter = new TxtFileNameFile();
-		String[] names = f1.list(filter);//�������
+		String[] names = f1.list(filter);
 		for(String name : names){
 			   System.out.println(name);
 		}
 		
 		File[] files = f1.listFiles(new DirFileFilter());
-		  for (File file : files) {//���·��
+		  for (File file : files) {
 				   System.out.println(file.getAbsolutePath());
 		}
 		

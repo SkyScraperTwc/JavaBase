@@ -16,7 +16,7 @@ public class TestFile5 {
 		
 		File[] files = f1.listFiles(new DirFileFilter());
 		  for (File file : files) {
-				   System.out.println(file.getAbsolutePath());
+			   System.out.println(file.getAbsolutePath());
 		}
 		
 	}

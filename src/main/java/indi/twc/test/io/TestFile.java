@@ -1,11 +1,4 @@
 package indi.twc.test.io;
-/**
- * createNewFile()-����һ���µ��ļ�
-mkdir-����һ���ļ��У����ǲ��ܴ����㼶
-mkdirs - �����㼶�ļ���
-renameTo() - �ļ����������ƶ�
-delete - ɾ���ļ����ļ���
- */
 import java.io.File;
 import java.io.IOException;
 

@@ -15,7 +15,7 @@ public class TestFileInputStream {
 			in = new FileInputStream("C:\\Users\\TanWC\\Desktop\\file\\a.txt");
 			System.out.println(in.available());
 			byte[] b = new byte[in.available()];
-			in.read(b);//�Ӵ��������н���� b.length ���ֽڵ����ݶ���һ�� byte �����С�
+			in.read(b);
 			System.out.println(Arrays.toString(b));
    			
 			

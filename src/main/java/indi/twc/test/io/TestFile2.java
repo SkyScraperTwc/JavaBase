@@ -1,10 +1,5 @@
 package indi.twc.test.io;
-/**
- * isFile() - �ж��Ƿ����ļ�
-isDirectory() - �ж��Ƿ���Ŀ¼
-getName() - ����ļ���
-getAbsolutePath() - ����ļ��ľ���·��
- */
+
 import java.io.File;
 
 public class TestFile2 {

@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="980d91a6-1f1c-49c9-b55f-a69cfe21149f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/test/network/InetAddressTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/test/network/URLTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/test/network/socket/ClientA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/test/network/socket/ClientB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/test/network/socket/Server.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/test/network/socket/ServerThread.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/test/io/Recursion.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/test/io/TestFile.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/test/io/TestFile.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/test/io/TestFile2.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/test/io/TestFile2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/test/io/TestFile3.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/test/io/TestFile3.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/test/io/TestFile4.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/test/io/TestFile4.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/test/io/TestFile5.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/test/io/TestFile5.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/test/io/TestFile6.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/test/io/TestFile6.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/test/io/TestFileInputStream.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/test/io/TestFileInputStream.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/test/io/TestFileOutputStream.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/test/io/TestFileOutputStream.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -123,12 +108,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClientB.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ClientB.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/test/network/socket/ClientB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+            <state relative-caret-position="306">
+              <caret line="22" column="39" lean-forward="false" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="162">
+                <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -245,10 +243,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1913" />
+    <option name="x" value="-7" />
     <option name="y" value="-1" />
     <option name="width" value="1934" />
-    <option name="height" value="1088" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -405,11 +403,11 @@
       <recent name="indi.twc.test.network.socket" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/java/indi/twc/test/io" />
       <recent name="$PROJECT_DIR$/src/main/java/indi/twc/test/algorithm/huawei/package0" />
       <recent name="$PROJECT_DIR$/src/main/java/indi/twc/test/algorithm/huawei" />
       <recent name="$PROJECT_DIR$/src/main/java/indi/twc/test/design" />
-      <recent name="$PROJECT_DIR$/src/main" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -636,7 +634,7 @@
       <workItem from="1509444910557" duration="3600000" />
       <workItem from="1509613723434" duration="4995000" />
       <workItem from="1509682136379" duration="7000" />
-      <workItem from="1509949680993" duration="5974000" />
+      <workItem from="1509949680993" duration="6778000" />
     </task>
     <task id="LOCAL-00001" summary="修改代码规范">
       <created>1509618314576</created>
@@ -645,14 +643,21 @@
       <option name="project" value="LOCAL" />
       <updated>1509618314576</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加socket编程示例">
+      <created>1509958877740</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1509958877740</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18863000" />
+    <option name="totallyTimeSpent" value="19667000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="-1" width="1934" height="1088" extended-state="6" />
+    <frame x="-7" y="-1" width="1934" height="1048" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -692,7 +697,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改代码规范" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改代码规范" />
+    <MESSAGE value="添加socket编程示例" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加socket编程示例" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -701,14 +707,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/test/thread/WaitNotifyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/test/thread/SleepTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -1067,9 +1065,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/test/network/socket/ClientB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+        <state relative-caret-position="306">
+          <caret line="22" column="39" lean-forward="false" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="162">
+            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

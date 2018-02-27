@@ -16,7 +16,5 @@ public class TestA {
 
         // 使用 lambda 表达式以及函数操作(functional operation)
         players.forEach((player) -> System.out.println(player + "; "));
-
-
     }
 }

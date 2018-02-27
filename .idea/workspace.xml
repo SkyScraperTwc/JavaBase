@@ -2,89 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e17df1f7-3923-419a-b00f-a65934caa085" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/test/internal/AnonymousTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/test/internal/Product.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/test/lambda/InterfaceZ.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/test/lambda/impl/TestA.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/test/lambda/impl/TestB.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/test/lambda/impl/TestC.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/test/lambda/impl/TestZ.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/main.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/A.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/A2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/AA.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/BlockingQueueTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/HashMapTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/HashSetTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/HashTableTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/LinkedHashMapTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/LinkedHashSetTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/QueueTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/ReadThread2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/TreeSetTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/UnSafeHashMapTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/WriteThread2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/concurrent/ConcurrentHashMapTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/concurrent/ConcurrentModificationExceptionTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/concurrent/CopyOnWriteArrayListTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/concurrent/ReadThread.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/concurrent/ReadThread3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/concurrent/WriteThread.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/concurrent/WriteThread3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/internal/AnonymousTest$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/internal/AnonymousTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/internal/Product.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/io/DirFileFilter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/io/TestFile.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/io/TestFile2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/io/TestFile3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/io/TestFile4.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/io/TestFile5.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/io/TestFile6.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/io/TestFileInputStream.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/io/TestFileOutputStream.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/io/TxtFileNameFile.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/network/InetAddressTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/network/URLTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/network/socket/ClientA.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/network/socket/ClientB.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/network/socket/Server.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/network/socket/ServerThread.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/other/ExtendsTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/other/SoftReferenceTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/other/Super.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/other/SuperClass.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/other/WeakHashMapTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/Connection.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/Counter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/DeadLock.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/DeadLockDemoTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/JoinTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/MyRunnable.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/MyRunnable1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/MyThr2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/MyThread.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/MyThread5.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/SleepTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/SyncThreadA.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/SynchronizedATest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/SynchronizedBTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/TestThread.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/Thread1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/Thread2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/ThreadLocalTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/ThreadTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/WaitNotifyTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/YieldTest.class" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/JavaBase.iml" afterPath="$PROJECT_DIR$/JavaBase.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/indi/twc/test/other/SoftReferenceTest.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/test/other/SoftReferenceTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/A.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/A2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/AA.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/BlockingQueueTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/HashMapTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/HashSetTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/HashTableTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/LinkedHashMapTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/LinkedHashSetTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/QueueTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/ReadThread2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/TreeSetTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/UnSafeHashMapTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/collection/WriteThread2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/concurrent/ConcurrentHashMapTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/concurrent/ConcurrentModificationExceptionTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/concurrent/CopyOnWriteArrayListTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/concurrent/ReadThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/concurrent/ReadThread3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/concurrent/WriteThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/concurrent/WriteThread3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/internal/AnonymousTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/internal/AnonymousTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/internal/Product.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/io/DirFileFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/io/TestFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/io/TestFile2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/io/TestFile3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/io/TestFile4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/io/TestFile5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/io/TestFile6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/io/TestFileInputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/io/TestFileOutputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/io/TxtFileNameFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/network/InetAddressTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/network/URLTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/network/socket/ClientA.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/network/socket/ClientB.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/network/socket/Server.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/network/socket/ServerThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/other/ExtendsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/other/SoftReferenceTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/other/Super.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/other/SuperClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/other/WeakHashMapTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/Connection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/Counter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/DeadLock.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/DeadLockDemoTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/JoinTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/MyRunnable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/MyRunnable1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/MyThr2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/MyThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/MyThread5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/SleepTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/SyncThreadA.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/SynchronizedATest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/SynchronizedBTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/TestThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/Thread1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/Thread2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/ThreadLocalTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/ThreadTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/WaitNotifyTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/indi/twc/test/thread/YieldTest.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -97,11 +82,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="21" lean-forward="false" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+            <state relative-caret-position="378">
+              <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -110,7 +95,7 @@
       <file leaf-file-name="TestA.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/test/lambda/impl/TestA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="324">
               <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -122,22 +107,20 @@
       <file leaf-file-name="TestB.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/test/lambda/impl/TestB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="360">
               <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestC.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestC.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/test/lambda/impl/TestC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+            <state relative-caret-position="180">
+              <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#602#603#0" expanded="true" />
-                <element signature="e#657#658#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -146,7 +129,7 @@
       <file leaf-file-name="TestZ.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/test/lambda/impl/TestZ.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="324">
               <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
@@ -156,41 +139,8 @@
       <file leaf-file-name="InterfaceZ.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/test/lambda/InterfaceZ.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
+            <state relative-caret-position="36">
               <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/lang/Thread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6885">
-              <caret line="446" column="11" lean-forward="false" selection-start-line="446" selection-start-column="11" selection-end-line="446" selection-end-column="11" />
-              <folding>
-                <element signature="e#15020#15021#0" expanded="true" />
-                <element signature="e#15084#15085#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Iterable.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/lang/Iterable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="74" column="23" lean-forward="false" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Consumer.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/util/function/Consumer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -241,8 +191,8 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../../maven-3.5.2" />
-        <option name="userSettingsFile" value="$PROJECT_DIR$/../../maven-3.5.2/conf/settings.xml" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven-3.5.0" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../maven-3.5.0/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -263,10 +213,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="692" />
-    <option name="y" value="273" />
-    <option name="width" value="657" />
-    <option name="height" value="376" />
+    <option name="x" value="2071" />
+    <option name="y" value="79" />
+    <option name="width" value="1571" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -286,6 +236,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -342,40 +294,12 @@
               <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -406,13 +330,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.TestC">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-    </configuration>
     <configuration name="AnonymousTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -508,6 +425,13 @@
       <module name="JavaBase" />
       <envs />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -542,6 +466,12 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -575,12 +505,6 @@
       <envs />
       <properties />
       <listeners />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.AnonymousTest (1)" />
@@ -618,14 +542,15 @@
       <workItem from="1513562311878" duration="967000" />
       <workItem from="1513564681189" duration="667000" />
       <workItem from="1513838297495" duration="45000" />
+      <workItem from="1519716843641" duration="290000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9378000" />
+    <option name="totallyTimeSpent" value="9668000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="63" y="-4" width="1857" height="1084" extended-state="6" />
+    <frame x="1913" y="-1" width="1934" height="1088" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -633,13 +558,14 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25316456" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16506922" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3850385" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28781512" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2058338" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18051118" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -713,41 +639,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7582">
-          <caret line="446" column="11" lean-forward="false" selection-start-line="446" selection-start-column="11" selection-end-line="446" selection-end-column="11" />
-          <folding>
-            <element signature="e#15020#15021#0" expanded="true" />
-            <element signature="e#15084#15085#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/lang/Iterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="74" column="23" lean-forward="false" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/lang/Thread.java" />
+    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/lang/Iterable.java" />
+    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/util/function/Consumer.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/test/lambda/impl/TestC.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -794,41 +694,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8028">
-          <caret line="446" column="11" lean-forward="false" selection-start-line="446" selection-start-column="11" selection-end-line="446" selection-end-column="11" />
-          <folding>
-            <element signature="e#15020#15021#0" expanded="true" />
-            <element signature="e#15084#15085#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/lang/Iterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="846">
-          <caret line="74" column="23" lean-forward="false" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/lang/Thread.java" />
+    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/lang/Iterable.java" />
+    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/util/function/Consumer.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/test/lambda/impl/TestC.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="41" lean-forward="false" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -840,13 +714,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1998">
-          <caret line="143" column="28" lean-forward="false" selection-start-line="143" selection-start-column="28" selection-end-line="143" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/util/HashMap.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/test/other/ExtendsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -897,13 +765,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1998">
-          <caret line="143" column="28" lean-forward="false" selection-start-line="143" selection-start-column="28" selection-end-line="143" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/util/HashMap.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/test/other/ExtendsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -961,13 +823,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1998">
-          <caret line="143" column="28" lean-forward="false" selection-start-line="143" selection-start-column="28" selection-end-line="143" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/util/HashMap.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/test/other/ExtendsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -996,44 +852,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="21" lean-forward="false" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/lang/Iterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="74" column="23" lean-forward="false" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6885">
-          <caret line="446" column="11" lean-forward="false" selection-start-line="446" selection-start-column="11" selection-end-line="446" selection-end-column="11" />
-          <folding>
-            <element signature="e#15020#15021#0" expanded="true" />
-            <element signature="e#15084#15085#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/util/function/Consumer.java" />
+    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/lang/Iterable.java" />
+    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_151/src.zip!/java/lang/Thread.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/test/lambda/InterfaceZ.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="36">
           <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
           <folding />
         </state>
@@ -1041,7 +865,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/test/lambda/impl/TestZ.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="324">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
@@ -1049,7 +873,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/test/lambda/impl/TestB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="360">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
@@ -1057,7 +881,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/test/lambda/impl/TestA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="324">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1068,13 +892,19 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/test/stream/TestA.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/test/lambda/impl/TestC.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        <state relative-caret-position="180">
+          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>

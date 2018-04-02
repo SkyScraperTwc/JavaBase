@@ -2,29 +2,47 @@ package indi.twc.test.thread;
 
 public class ThreadTest {
 	public static void main(String[] args){
-		MyThread thread1 = new MyThread("MyThread---1");
-		MyThread thread2 = new MyThread("MyThread---2");
-		
-		thread1.start();
-		thread2.start();
+		A a = new A();
+		Runnable runnable = new MyThread(a);
+		Runnable runnable2 = new MyThread2(a);
+		new Thread(runnable,"thread----1").start();
+		new Thread(runnable2,"thread----2").start();
 	}
 }
 
-class MyThread extends Thread {
-	private Object lock = new Object();
+class MyThread implements Runnable {
+	private A a;
 
-	public MyThread(String name) {
-		super(name);
+	public MyThread(A a) {
+		this.a = a;
 	}
-
 	@Override
-   public void run() {
-		synchronized (lock){
-			for (int i = 0; i < 50; i++) {
-				System.out.println(Thread.currentThread().getName()+"---------"+i);
-			}
-		}
-   }
+	public void run() {
+		a.fun();
+	}
 }
 
+class MyThread2 implements Runnable {
+	private A a;
 
+	public MyThread2(A a) {
+		this.a = a;
+	}
+	@Override
+	public void run() {
+		a.fun2();
+	}
+}
+
+class A {
+	public synchronized void fun() {
+		for (int i = 1; i <= 100; i++) {
+			System.out.println("fun---"+Thread.currentThread().getName()+"---------"+i);
+		}
+	}
+	public static synchronized void fun2() {
+		for (int i = 1; i <= 100; i++) {
+			System.out.println("fun2---"+Thread.currentThread().getName()+"---------"+i);
+		}
+	}
+}
